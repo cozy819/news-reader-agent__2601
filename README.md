@@ -1,3 +1,5 @@
 # 필요한 env
 - OPENAI_API_KEY
 - SERPER_API_KEY
+
+test
